@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ribeiroAllison
+- 👀 I’m interested in technology and piano playing
+- 🌱 I’m learning JavaScript and a Chopin Nocturne
+- 🏭 I'm currently working as an international buyer for a factory
+- 📫 Reach me at dev.allisonribeiro@gmail.com or whatsapp +55 (35) 99900-7112
+
+<!---
+ribeiroAllison/ribeiroAllison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
