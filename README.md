@@ -9,7 +9,7 @@ Currently I'm going thorough `Software Development grad school` and am enroled i
 
 ### My techs (so far...)
 
-<img src="./TECH.jpg" width="100px" height="auto"/>
+<img src="./TECH.jpg" width="1000px" height="auto"/>
 
 ### Contact me!
 Email: dev.allisonribeiro@gmail.com
