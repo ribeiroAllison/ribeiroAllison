@@ -1,7 +1,6 @@
-# Hello There, I'm Allison, an aspiring Full Stack Dev
-I've been studying web development since 2022 and fell deeply in love with the subject.
+# Hello There, I'm Allison, Front-End developer
 
-Currently I'm going thorough `Software Development grad school` and am enroled in Full Stack Engineer career path in Codecademy.
+Passionate about coding and developing smart solutions for my clients
 
 ### Profile
 
