@@ -8,7 +8,7 @@ Passionate about coding and developing smart solutions for my clients
 
 ### My techs (so far...)
 
-<img src="./TECH.jpg" width="600px" height="auto"/>
+<img src="./techs.jpg" width="600px" height="auto"/>
 
 ### Contact me!
 - Email: dev.allisonribeiro@gmail.com
